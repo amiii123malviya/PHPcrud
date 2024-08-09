@@ -79,6 +79,9 @@
             <a href="index.php">Home</a>
             <a href="insert.php">Insert</a>
             <a href="display.php">Display</a>
+            <a href="search.php">Search</a>
+            <a href="update.php">Update</a>
+
         </div>
         <h1>Home page</h1>
     </div>
